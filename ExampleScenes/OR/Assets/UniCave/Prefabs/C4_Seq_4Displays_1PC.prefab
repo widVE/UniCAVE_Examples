@@ -2017,7 +2017,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _HeadNodeMachineName: caveb
   _MultipleDisplays: 1
-  _TrackingSystemOffset: {x: 0.002, y: -1.4478, z: -0.025}
+  _TrackingSystemOffset: {x: 0, y: 0, z: 0}
   _LeftEyeOffset: {x: -0.031, y: -0.0266, z: 0.041}
   _RightEyeOffset: {x: 0.031, y: -0.0266, z: 0.041}
   _clearFlags: 2
@@ -2041,6 +2041,7 @@ MonoBehaviour:
   channel: 0
   trackPosition: 0
   trackRotation: 1
+  debugOutput: 0
 --- !u!114 &114570307676027150
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2056,6 +2057,7 @@ MonoBehaviour:
   channel: 0
   trackPosition: 1
   trackRotation: 0
+  debugOutput: 0
 --- !u!114 &114581042379403684
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2086,6 +2088,7 @@ MonoBehaviour:
   channel: 1
   trackPosition: 1
   trackRotation: 1
+  debugOutput: 0
 --- !u!114 &114868419467810028
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2101,6 +2104,14 @@ MonoBehaviour:
   channel: 1
   trackButton: 1
   trackAnalog: 1
+  wandObject: {fileID: 0}
+  debugOutput: 0
+  numButtons: 6
+  movementSpeed: 0.01
+  rotationSpeed: 5
+  deadZone: 0.5
+  restrictVerticalMovement: 1
+  rotationMovement: 0
   holder: {fileID: 1320991609857678}
 --- !u!120 &120497483323377738
 LineRenderer:

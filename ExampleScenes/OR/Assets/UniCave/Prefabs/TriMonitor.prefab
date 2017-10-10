@@ -930,7 +930,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _HeadNodeMachineName: C6_V1_HEAD
   _MultipleDisplays: 1
-  _TrackingSystemOffset: {x: 0.002, y: -1.4478, z: -0.025}
+  _TrackingSystemOffset: {x: 0, y: 0, z: 0}
   _LeftEyeOffset: {x: -0.031, y: -0.0266, z: 0.041}
   _RightEyeOffset: {x: 0.031, y: -0.0266, z: 0.041}
   _clearFlags: 2
