@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 26901a857fc02a74fa7977a22f31fc2f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Anesth_Tube_Bed
+    100004: Anest_Main
+    100006: Anest_Device 1
+    100008: Pomp
+    100010: Root
+    100012: Anest_InteractivePart
+    100014: Anest_InteractiveGrp
+    100016: Anest_Interactive
+    100018: Anesth_BlackPlastic
+    100020: Anesth_Tube
+    400000: //RootNode
+    400002: Anesth_Tube_Bed
+    400004: Anest_Main
+    400006: Anest_Device 1
+    400008: Pomp
+    400010: Root
+    400012: Anest_InteractivePart
+    400014: Anest_InteractiveGrp
+    400016: Anest_Interactive
+    400018: Anesth_BlackPlastic
+    400020: Anesth_Tube
+    2300000: Anesth_Tube_Bed
+    2300002: Anest_Main
+    2300004: Anest_Interactive
+    2300006: Anesth_BlackPlastic
+    2300008: Anest_Device 1
+    2300010: Anesth_Tube
+    3300000: Anesth_Tube_Bed
+    3300002: Anest_Main
+    3300004: Anest_Interactive
+    3300006: Anesth_BlackPlastic
+    3300008: Anest_Device 1
+    3300010: Anesth_Tube
+    4300000: Anest_InteractivePart
+    4300002: Anesth_BlackPlastic
+    4300004: Anest_Main
+    4300006: Anesth_Detail
+    4300008: Anest_Interactive
+    4300010: Anest_Interactive
+    4300012: Anest_Device
+    4300014: Anesth_Tube
+    4300016: Anesth_Tube_Bed
+    7400000: Take 001
+    7400002: Anesth
+    7400004: idle
+    7400006: Pump
+    11100000: //RootNode
+    13700000: Root
+    13700002: Anest_InteractivePart
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Pump
+      takeName: 
+      firstFrame: 1
+      lastFrame: 57
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

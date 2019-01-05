@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: cd0f8f2ba4f832942b85fdd16ec4cb12
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: LeftHandIndex3
+    100002: LeftHandIndex2
+    100004: LeftHandIndex1
+    100006: LeftHandThumb3
+    100008: LeftHandThumb2
+    100010: LeftHandThumb1
+    100012: LeftHand
+    100014: LeftForeArm
+    100016: LeftArm
+    100018: LeftShoulder
+    100020: LeftEyeLid
+    100022: LeftEye
+    100024: LeftEyeLidUp
+    100026: Reference
+    100028: RightEyeLid
+    100030: RightEye
+    100032: RightEyeLidUp
+    100034: Head
+    100036: Neck
+    100038: Spine2
+    100040: Spine1
+    100042: Spine
+    100044: LeftFoot
+    100046: LeftLeg
+    100048: LeftUpLeg
+    100050: Hips
+    100052: Util
+    100054: RightUpLeg
+    100056: RightHandIndex3
+    100058: RightHandIndex2
+    100060: RightHandIndex1
+    100062: RightHandThumb3
+    100064: RightHandThumb2
+    100066: RightHandThumb1
+    100068: RightHand
+    100070: RightForeArm
+    100072: RightArm
+    100074: RightShoulder
+    100076: //RootNode
+    100078: Surgeon_D
+    100080: RightFoot
+    100082: RightLeg
+    400000: LeftHandIndex3
+    400002: LeftHandIndex2
+    400004: LeftHandIndex1
+    400006: LeftHandThumb3
+    400008: LeftHandThumb2
+    400010: LeftHandThumb1
+    400012: LeftHand
+    400014: LeftForeArm
+    400016: LeftArm
+    400018: LeftShoulder
+    400020: LeftEyeLid
+    400022: LeftEye
+    400024: LeftEyeLidUp
+    400026: Reference
+    400028: RightEyeLid
+    400030: RightEye
+    400032: RightEyeLidUp
+    400034: Head
+    400036: Neck
+    400038: Spine2
+    400040: Spine1
+    400042: Spine
+    400044: LeftFoot
+    400046: LeftLeg
+    400048: LeftUpLeg
+    400050: Hips
+    400052: Util
+    400054: RightUpLeg
+    400056: RightHandIndex3
+    400058: RightHandIndex2
+    400060: RightHandIndex1
+    400062: RightHandThumb3
+    400064: RightHandThumb2
+    400066: RightHandThumb1
+    400068: RightHand
+    400070: RightForeArm
+    400072: RightArm
+    400074: RightShoulder
+    400076: //RootNode
+    400078: Surgeon_D
+    400080: RightFoot
+    400082: RightLeg
+    4300000: CH_Surgeon_D_OR
+    4300002: CH_Surgeon_D
+    4300004: Surgeon_B_Cloth
+    4300006: Surgeon_D
+    11100000: //RootNode
+    13700000: Reference
+    13700002: Surgeon_D
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Body_Female
+    second: {fileID: 2100000, guid: f4665646cbbf3c942a8d4dac219e8813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Hairnet
+    second: {fileID: 2100000, guid: a56817cc146115b419acfc24c19346ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Mondkapje
+    second: {fileID: 2100000, guid: d35dc41d487509545828940f9d6631d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Surgeon_D_Head
+    second: {fileID: 2100000, guid: c18820793e9c1a04a8e8f7109bce430c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Surgeon_D_Head_Alpha
+    second: {fileID: 2100000, guid: dfacc92fed78fa84c90707a9ddcce156, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

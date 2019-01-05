@@ -1,0 +1,14 @@
+Thanks for purchasing this asset.
+If you have any questions feel free to contact me: stanislavdol@gmail.com
+
+In order to use this effects just drag&drop them to your scene.
+Fireballs have Random_movement script assigned to them, you can delete it
+or replace it with your own code.
+In order to scale an effect drag&drop it to the scene and assign a Scaler script 
+to it(it can be found in the scripts folder). You need to assign the script only to the parent.
+It will find children automatically. Press start(start the scene) and 
+change the effect scale coefficient using slider. After you get the desired size just drag&drop 
+this effect from hierarchy to your folder.
+
+That's it.
+
