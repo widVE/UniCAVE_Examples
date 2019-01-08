@@ -43,6 +43,18 @@ public class NetworkVideo : NetworkBehaviour {
 
     void Start() {
         player = GetComponent<VideoPlayer>();
+
+        string[] args = System.Environment.GetCommandLineArgs();
+        //string input = "";
+        for (int i = 0; i < args.Length; i++)
+        {
+            Debug.Log("ARG " + i + ": " + args[i]);
+            if (args[i] == "-video")
+            {
+                //input = args[i + 1];
+                player.url = args[i + 1];
+            }
+        }
     }
 
     void FixedUpdate() {

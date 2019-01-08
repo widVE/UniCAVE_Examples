@@ -49,6 +49,7 @@ public class HeadConfiguration : MonoBehaviour {
         res.nearClipPlane = nearClippingPlane;
         res.transform.parent = transform;
         res.transform.localPosition = centerEyeOffset;
+        obj.AddComponent<AudioListener>();
         return res;
     }
     public Camera CreateRightEye(string name) {
