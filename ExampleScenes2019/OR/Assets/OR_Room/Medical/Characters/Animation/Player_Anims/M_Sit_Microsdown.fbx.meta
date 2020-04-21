@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 8183fe8c23c993a42ba1b262995b0fad
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: RightFoot
+    100002: RightLeg
+    100004: RightUpLeg
+    100006: RightHandIndex3
+    100008: RightHandIndex2
+    100010: RightHandIndex1
+    100012: RightHandThumb3
+    100014: RightHandThumb2
+    100016: RightHandThumb1
+    100018: RightHand
+    100020: RightForeArm
+    100022: RightArm
+    100024: RightShoulder
+    100026: LeftHandIndex3
+    100028: LeftHandIndex2
+    100030: LeftHandIndex1
+    100032: LeftHandThumb3
+    100034: LeftHandThumb2
+    100036: LeftHandThumb1
+    100038: LeftHand
+    100040: LeftForeArm
+    100042: LeftArm
+    100044: LeftShoulder
+    100046: LeftEyeLid
+    100048: LeftEye
+    100050: LeftEyeLidUp
+    100052: RightEyeLid
+    100054: RightEye
+    100056: RightEyeLidUp
+    100058: Head
+    100060: Neck
+    100062: Spine2
+    100064: Spine1
+    100066: Spine
+    100068: LeftFoot
+    100070: LeftLeg
+    100072: LeftUpLeg
+    100074: Hips
+    100076: Util
+    100078: Reference
+    100080: //RootNode
+    400000: RightFoot
+    400002: RightLeg
+    400004: RightUpLeg
+    400006: RightHandIndex3
+    400008: RightHandIndex2
+    400010: RightHandIndex1
+    400012: RightHandThumb3
+    400014: RightHandThumb2
+    400016: RightHandThumb1
+    400018: RightHand
+    400020: RightForeArm
+    400022: RightArm
+    400024: RightShoulder
+    400026: LeftHandIndex3
+    400028: LeftHandIndex2
+    400030: LeftHandIndex1
+    400032: LeftHandThumb3
+    400034: LeftHandThumb2
+    400036: LeftHandThumb1
+    400038: LeftHand
+    400040: LeftForeArm
+    400042: LeftArm
+    400044: LeftShoulder
+    400046: LeftEyeLid
+    400048: LeftEye
+    400050: LeftEyeLidUp
+    400052: RightEyeLid
+    400054: RightEye
+    400056: RightEyeLidUp
+    400058: Head
+    400060: Neck
+    400062: Spine2
+    400064: Spine1
+    400066: Spine
+    400068: LeftFoot
+    400070: LeftLeg
+    400072: LeftUpLeg
+    400074: Hips
+    400076: Util
+    400078: Reference
+    400080: //RootNode
+    7400000: Take 001
+    7400002: M_Sit_Microdown
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,94 @@
+fileFormatVersion: 2
+guid: 672f7ed9e64938c4ea64f61ddf6428e1
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Root
+    100002: //RootNode
+    100004: Hospital_Bed
+    100006: OR_Bed
+    100008: HandGrips
+    100010: Bed_Pole
+    100012: Blood_Bag_Holder
+    100014: Hospital_Bed_Blanket
+    100016: ClipBoard_Holder
+    400000: Root
+    400002: //RootNode
+    400004: Hospital_Bed
+    400006: OR_Bed
+    400008: HandGrips
+    400010: Bed_Pole
+    400012: Blood_Bag_Holder
+    400014: Hospital_Bed_Blanket
+    400016: ClipBoard_Holder
+    2300000: HandGrips
+    2300002: Bed_Pole
+    2300004: Blood_Bag_Holder
+    2300006: Hospital_Bed_Blanket
+    2300008: ClipBoard_Holder
+    3300000: HandGrips
+    3300002: Bed_Pole
+    3300004: Blood_Bag_Holder
+    3300006: Hospital_Bed_Blanket
+    3300008: ClipBoard_Holder
+    4300000: Hospital_Bed
+    4300002: Blood_Bag_Holder
+    4300004: Bed_Pole
+    4300006: ClipBoard_Holder
+    4300008: HandGrips
+    4300010: Hospital_Bed_Blanket
+    11100000: //RootNode
+    13700000: Root
+    13700002: Hospital_Bed
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
