@@ -6,6 +6,8 @@ https://github.com/widve/unicave
 
 These scenes use UniCAVE as a local Unity package. The UniCAVE 2019 Examples folder should be located in the same directory as the main UniCAVE folder, like so:
 
+![Folder structure setup](unicave_folder_structure.png)
+
 See the [UniCAVE project wiki](https://github.com/widVE/UniCAVE/wiki/UniCAVE-2019:-Package-Installation) for more information.
 
 ## List of working demos:
